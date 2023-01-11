@@ -8,9 +8,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I'm a former teacher, now employed by <a href="https://www.salt.dev/sv-SE"><salt/></a>.
+- :telescope: I'm a employed by <a href="https://www.salt.dev/sv-SE"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.salt.dev%2F&psig=AOvVaw0FxudhJ08X6Ngb3tdmMljS&ust=1673530015694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDZ3KTPv_wCFQAAAAAdAAAAABAD/></a>.
 
-- :seedling: 
+- :seedling: I love collaborating and was formerly a teacher
 
 - :zap: In my free time, I like being in the nature with my dog and solving japanese nonograms
 
