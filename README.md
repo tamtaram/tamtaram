@@ -7,7 +7,7 @@
 </h1>
   <img src="https://camo.githubusercontent.com/af08f11d5bbe17381b1357ebcd0a347e312fc921837d66e32b19b7ff686d6542/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6870586448506646493577544142644478392f67697068792e676966"/>
 
-<a href="https://www.linkedin.com/in/lotten-wester/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lotten-wester/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="80" /></a>
 ---
 
 ### :woman_technologist: About Me :
