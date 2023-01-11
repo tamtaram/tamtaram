@@ -5,9 +5,10 @@
   Hey there, I'm Lotten
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+    <a href="https://www.linkedin.com/in/lotten-wester/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="80" /></a>
   <img src="https://camo.githubusercontent.com/af08f11d5bbe17381b1357ebcd0a347e312fc921837d66e32b19b7ff686d6542/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6870586448506646493577544142644478392f67697068792e676966"/>
 
-<a href="https://www.linkedin.com/in/lotten-wester/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="80" /></a>
+
 ---
 
 ### :woman_technologist: About Me :
