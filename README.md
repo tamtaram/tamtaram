@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I'm a employed by <a href="https://www.salt.dev/sv-SE"><img src="[https://www.salt.dev/sv-SE](https://resources.mynewsdesk.com/image/upload/t_next_gen_logo_limit_x2/eldonslcsnbzyr0lkkol.jpg)" /></a>.
+- :telescope: I'm a employed by &lt;salt /&gt;
 
 - :seedling: I love collaborating and was formerly a teacher
 
